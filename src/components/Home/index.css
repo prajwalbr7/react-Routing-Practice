@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.img-sizing-home {
+  width: 350px;
+  height: 350px;
+}
+.Home-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500;
+  color: #555555;
+  text-align: center;
+}
